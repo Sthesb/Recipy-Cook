@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Recipy-Cook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This prpject is a CRUD Recipe project using React and JSON Server
 
 ## Available Scripts
 
